@@ -1,0 +1,9 @@
+com/application/docker/DockerApplication.class
+com/application/docker/rest/MovieController.class
+com/application/docker/dto/MovieDto.class
+com/application/docker/persistence/IMovieRepository.class
+com/application/docker/service/IMovieService.class
+com/application/docker/persistence/model/Movie$MovieBuilder.class
+com/application/docker/service/impl/MovieServiceImpl.class
+com/application/docker/dto/MovieDto$MovieDtoBuilder.class
+com/application/docker/persistence/model/Movie.class

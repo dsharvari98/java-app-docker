@@ -1,0 +1,7 @@
+/home/sharvari/docker-example-master/src/main/java/com/application/docker/DockerApplication.java
+/home/sharvari/docker-example-master/src/main/java/com/application/docker/service/impl/MovieServiceImpl.java
+/home/sharvari/docker-example-master/src/main/java/com/application/docker/persistence/model/Movie.java
+/home/sharvari/docker-example-master/src/main/java/com/application/docker/service/IMovieService.java
+/home/sharvari/docker-example-master/src/main/java/com/application/docker/dto/MovieDto.java
+/home/sharvari/docker-example-master/src/main/java/com/application/docker/rest/MovieController.java
+/home/sharvari/docker-example-master/src/main/java/com/application/docker/persistence/IMovieRepository.java
